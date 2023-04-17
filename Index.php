@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Sushu Town</title>
-    <link rel="stylesheet" href="/bezorgwebsite/style.css?v=1">
+    <link rel="stylesheet" href="/bezorgwebsite/css/style.css?v=2">
 </head>
 <header>
 
