@@ -123,8 +123,8 @@
         </div>
     </footer>
 
-    <script src="css/laden.js"></script>
-    <script type="module" src="css/script.js"></script>
+    <script src="bezorgwebsite/css/laden.js"></script>
+    <script type="module" src="bezorgwebsite/css/script.js"></script>
     <script src="https://kit.fontawesome.com/db9de94a89.js" crossorigin="anonymous"></script>
 </body>
 
